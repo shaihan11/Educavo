@@ -1,0 +1,18 @@
+*
+
+@media (max-width: 1090px) {
+    .menuitems {
+        margin-right: 0;
+    }
+
+    .search-cart {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .menuitems {
+        display: none;
+        padding: 15px;
+    }
+}
